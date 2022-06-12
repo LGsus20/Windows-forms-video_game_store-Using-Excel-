@@ -1,0 +1,17 @@
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\bin\Debug\jack.exe.config
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\bin\Debug\jack.exe
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\bin\Debug\jack.pdb
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.Form1.resources
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.Properties.Resources.resources
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.csproj.GenerateResource.cache
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.exe
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.pdb
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.csproj.ResolveComReference.cache
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.MenuGeneral.resources
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.verificacion_inventario.resources
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.verificar_precio.resources
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.Modificar_excel.resources
+C:\Users\jesus\Downloads\proyecto U6 Jack\jack\jack\obj\Debug\jack.Del_Add_videogames.resources
